@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 3f0a8ae13604749f8ae362fe1c268105
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back handle sanket-1-surface1
+    100002: back slider sanket-1-surface1
+    100004: back slider sanket-1-surface2
+    100006: back slider sanket-1-surface3
+    100008: back slider sanket-1-surface4
+    100010: Component1-1-surface1
+    100012: Component1-1-surface2
+    100014: Component1-1-surface3
+    100016: Component1-1-surface4
+    100018: Component1-1-surface5
+    100020: Component1-1-surface6
+    100022: Component10-1/Component15-1-surface1
+    100024: Component11-1-surface1
+    100026: Component11-1-surface2
+    100028: Component11-1-surface3
+    100030: Component13-1-surface1
+    100032: Component14-1-surface1
+    100034: Component16-1-surface1
+    100036: Component16-1-surface2
+    100038: Component16-1-surface3
+    100040: Component16-1-surface4
+    100042: Component16-1-surface5
+    100044: Component17-1-surface1
+    100046: Component21-1-surface1
+    100048: Component21-1-surface2
+    100050: Component21-1-surface3
+    100052: Component21-1-surface4
+    100054: Component37-1-surface1
+    100056: Component47-1-surface1
+    100058: Component9-1-surface1
+    100060: eyes(Mirror) (1)(Mirror) (1)-1-surface1
+    100062: eyes(Mirror) (1)-1/Component45-1-surface1
+    100064: eyes(Mirror) (1)-1/Component46-1-surface1
+    100066: eyes(Mirror) (1)-1/eyes(Mirror) (1)-1-surface1
+    100068: front finger sanket(Mirror) (1)(Mirror)-1-surface1
+    100070: front finger sanket(Mirror) (1)-1-surface1
+    100072: front finger sanket(Mirror) (2)-1-surface1
+    100074: front finger sanket-1-surface1
+    100076: NECK sanket-1-surface1
+    100078: SHOULDER JOINT SANKET-1-surface1
+    100080: SHOULDER JOINT SANKET-1-surface2
+    100082: SHOULDER JOINT SANKET-1-surface3
+    100084: shoulder sanket-1-surface1
+    100086: slider sanket(Mirror)-1-surface1
+    100088: slider sanket-1/slider sanket-1-surface1
+    100090: small finger sanket(Mirror)-1-surface1
+    100092: small finger sanket(Mirror)-1-surface2
+    100094: small finger sanket-1-surface1
+    100096: small finger sanket2(Mirror)-1-surface1
+    100098: small finger sanket2-1-surface1
+    100100: WALL E v126-1-surface1
+    100102: WALL E v126-1-surface10
+    100104: WALL E v126-1-surface100
+    100106: WALL E v126-1-surface101
+    100108: WALL E v126-1-surface102
+    100110: WALL E v126-1-surface103
+    100112: WALL E v126-1-surface104
+    100114: WALL E v126-1-surface105
+    100116: WALL E v126-1-surface106
+    100118: WALL E v126-1-surface107
+    100120: WALL E v126-1-surface108
+    100122: WALL E v126-1-surface109
+    100124: WALL E v126-1-surface11
+    100126: WALL E v126-1-surface110
+    100128: WALL E v126-1-surface111
+    100130: WALL E v126-1-surface112
+    100132: WALL E v126-1-surface113
+    100134: WALL E v126-1-surface114
+    100136: WALL E v126-1-surface115
+    100138: WALL E v126-1-surface116
+    100140: WALL E v126-1-surface117
+    100142: WALL E v126-1-surface118
+    100144: WALL E v126-1-surface119
+    100146: WALL E v126-1-surface12
+    100148: WALL E v126-1-surface120
+    100150: WALL E v126-1-surface121
+    100152: WALL E v126-1-surface122
+    100154: WALL E v126-1-surface123
+    100156: WALL E v126-1-surface13
+    100158: WALL E v126-1-surface14
+    100160: WALL E v126-1-surface15
+    100162: WALL E v126-1-surface16
+    100164: WALL E v126-1-surface17
+    100166: WALL E v126-1-surface18
+    100168: WALL E v126-1-surface19
+    100170: WALL E v126-1-surface2
+    100172: WALL E v126-1-surface20
+    100174: WALL E v126-1-surface21
+    100176: WALL E v126-1-surface22
+    100178: WALL E v126-1-surface23
+    100180: WALL E v126-1-surface24
+    100182: WALL E v126-1-surface25
+    100184: WALL E v126-1-surface26
+    100186: WALL E v126-1-surface27
+    100188: WALL E v126-1-surface28
+    100190: WALL E v126-1-surface29
+    100192: WALL E v126-1-surface3
+    100194: WALL E v126-1-surface30
+    100196: WALL E v126-1-surface31
+    100198: WALL E v126-1-surface32
+    100200: WALL E v126-1-surface33
+    100202: WALL E v126-1-surface34
+    100204: WALL E v126-1-surface35
+    100206: WALL E v126-1-surface36
+    100208: WALL E v126-1-surface37
+    100210: WALL E v126-1-surface38
+    100212: WALL E v126-1-surface39
+    100214: WALL E v126-1-surface4
+    100216: WALL E v126-1-surface40
+    100218: WALL E v126-1-surface41
+    100220: WALL E v126-1-surface42
+    100222: WALL E v126-1-surface43
+    100224: WALL E v126-1-surface44
+    100226: WALL E v126-1-surface45
+    100228: WALL E v126-1-surface46
+    100230: WALL E v126-1-surface47
+    100232: WALL E v126-1-surface48
+    100234: WALL E v126-1-surface49
+    100236: WALL E v126-1-surface5
+    100238: WALL E v126-1-surface50
+    100240: WALL E v126-1-surface51
+    100242: WALL E v126-1-surface52
+    100244: WALL E v126-1-surface53
+    100246: WALL E v126-1-surface54
+    100248: WALL E v126-1-surface55
+    100250: WALL E v126-1-surface56
+    100252: WALL E v126-1-surface57
+    100254: WALL E v126-1-surface58
+    100256: WALL E v126-1-surface59
+    100258: WALL E v126-1-surface6
+    100260: WALL E v126-1-surface60
+    100262: WALL E v126-1-surface61
+    100264: WALL E v126-1-surface62
+    100266: WALL E v126-1-surface63
+    100268: WALL E v126-1-surface64
+    100270: WALL E v126-1-surface65
+    100272: WALL E v126-1-surface66
+    100274: WALL E v126-1-surface67
+    100276: WALL E v126-1-surface68
+    100278: WALL E v126-1-surface69
+    100280: WALL E v126-1-surface7
+    100282: WALL E v126-1-surface70
+    100284: WALL E v126-1-surface71
+    100286: WALL E v126-1-surface72
+    100288: WALL E v126-1-surface73
+    100290: WALL E v126-1-surface74
+    100292: WALL E v126-1-surface75
+    100294: WALL E v126-1-surface76
+    100296: WALL E v126-1-surface77
+    100298: WALL E v126-1-surface78
+    100300: WALL E v126-1-surface79
+    100302: WALL E v126-1-surface8
+    100304: WALL E v126-1-surface80
+    100306: WALL E v126-1-surface81
+    100308: WALL E v126-1-surface82
+    100310: WALL E v126-1-surface83
+    100312: WALL E v126-1-surface84
+    100314: WALL E v126-1-surface85
+    100316: WALL E v126-1-surface86
+    100318: WALL E v126-1-surface87
+    100320: WALL E v126-1-surface88
+    100322: WALL E v126-1-surface89
+    100324: WALL E v126-1-surface9
+    100326: WALL E v126-1-surface90
+    100328: WALL E v126-1-surface91
+    100330: WALL E v126-1-surface92
+    100332: WALL E v126-1-surface93
+    100334: WALL E v126-1-surface94
+    100336: WALL E v126-1-surface95
+    100338: WALL E v126-1-surface96
+    100340: WALL E v126-1-surface97
+    100342: WALL E v126-1-surface98
+    100344: WALL E v126-1-surface99
+    100346: //RootNode
+    100348: WALLEd.SLDPRT 1
+    100350: whell drive sanket(Mirror) (1)-1-surface1
+    100352: whell drive sanket(Mirror) (1)-1-surface2
+    100354: whell drive sanket(Mirror) (1)-1-surface3
+    100356: whell drive sanket(Mirror) (1)-1-surface4
+    100358: whell drive sanket(Mirror) (1)-1-surface5
+    100360: whell drive sanket(Mirror) (1)-1-surface6
+    100362: whell drive sanket(Mirror)(Mirror)-1-surface1
+    100364: whell drive sanket(Mirror)(Mirror)-1-surface2
+    100366: whell drive sanket(Mirror)(Mirror)-1-surface3
+    100368: whell drive sanket(Mirror)(Mirror)-1-surface4
+    100370: whell drive sanket(Mirror)(Mirror)-1-surface5
+    100372: whell drive sanket(Mirror)(Mirror)-1-surface6
+    100374: whell drive sanket(Mirror)-1-surface1
+    100376: whell drive sanket(Mirror)-1-surface2
+    100378: whell drive sanket(Mirror)-1-surface3
+    100380: whell drive sanket(Mirror)-1-surface4
+    100382: whell drive sanket(Mirror)-1-surface5
+    100384: whell drive sanket(Mirror)-1-surface6
+    100386: whell drive sanket(Mirror)-1-surface7
+    100388: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface1
+    100390: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface2
+    100392: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface3
+    100394: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface4
+    100396: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface5
+    100398: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface6
+    100400: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface7
+    400000: back handle sanket-1-surface1
+    400002: back slider sanket-1-surface1
+    400004: back slider sanket-1-surface2
+    400006: back slider sanket-1-surface3
+    400008: back slider sanket-1-surface4
+    400010: Component1-1-surface1
+    400012: Component1-1-surface2
+    400014: Component1-1-surface3
+    400016: Component1-1-surface4
+    400018: Component1-1-surface5
+    400020: Component1-1-surface6
+    400022: Component10-1/Component15-1-surface1
+    400024: Component11-1-surface1
+    400026: Component11-1-surface2
+    400028: Component11-1-surface3
+    400030: Component13-1-surface1
+    400032: Component14-1-surface1
+    400034: Component16-1-surface1
+    400036: Component16-1-surface2
+    400038: Component16-1-surface3
+    400040: Component16-1-surface4
+    400042: Component16-1-surface5
+    400044: Component17-1-surface1
+    400046: Component21-1-surface1
+    400048: Component21-1-surface2
+    400050: Component21-1-surface3
+    400052: Component21-1-surface4
+    400054: Component37-1-surface1
+    400056: Component47-1-surface1
+    400058: Component9-1-surface1
+    400060: eyes(Mirror) (1)(Mirror) (1)-1-surface1
+    400062: eyes(Mirror) (1)-1/Component45-1-surface1
+    400064: eyes(Mirror) (1)-1/Component46-1-surface1
+    400066: eyes(Mirror) (1)-1/eyes(Mirror) (1)-1-surface1
+    400068: front finger sanket(Mirror) (1)(Mirror)-1-surface1
+    400070: front finger sanket(Mirror) (1)-1-surface1
+    400072: front finger sanket(Mirror) (2)-1-surface1
+    400074: front finger sanket-1-surface1
+    400076: NECK sanket-1-surface1
+    400078: SHOULDER JOINT SANKET-1-surface1
+    400080: SHOULDER JOINT SANKET-1-surface2
+    400082: SHOULDER JOINT SANKET-1-surface3
+    400084: shoulder sanket-1-surface1
+    400086: slider sanket(Mirror)-1-surface1
+    400088: slider sanket-1/slider sanket-1-surface1
+    400090: small finger sanket(Mirror)-1-surface1
+    400092: small finger sanket(Mirror)-1-surface2
+    400094: small finger sanket-1-surface1
+    400096: small finger sanket2(Mirror)-1-surface1
+    400098: small finger sanket2-1-surface1
+    400100: WALL E v126-1-surface1
+    400102: WALL E v126-1-surface10
+    400104: WALL E v126-1-surface100
+    400106: WALL E v126-1-surface101
+    400108: WALL E v126-1-surface102
+    400110: WALL E v126-1-surface103
+    400112: WALL E v126-1-surface104
+    400114: WALL E v126-1-surface105
+    400116: WALL E v126-1-surface106
+    400118: WALL E v126-1-surface107
+    400120: WALL E v126-1-surface108
+    400122: WALL E v126-1-surface109
+    400124: WALL E v126-1-surface11
+    400126: WALL E v126-1-surface110
+    400128: WALL E v126-1-surface111
+    400130: WALL E v126-1-surface112
+    400132: WALL E v126-1-surface113
+    400134: WALL E v126-1-surface114
+    400136: WALL E v126-1-surface115
+    400138: WALL E v126-1-surface116
+    400140: WALL E v126-1-surface117
+    400142: WALL E v126-1-surface118
+    400144: WALL E v126-1-surface119
+    400146: WALL E v126-1-surface12
+    400148: WALL E v126-1-surface120
+    400150: WALL E v126-1-surface121
+    400152: WALL E v126-1-surface122
+    400154: WALL E v126-1-surface123
+    400156: WALL E v126-1-surface13
+    400158: WALL E v126-1-surface14
+    400160: WALL E v126-1-surface15
+    400162: WALL E v126-1-surface16
+    400164: WALL E v126-1-surface17
+    400166: WALL E v126-1-surface18
+    400168: WALL E v126-1-surface19
+    400170: WALL E v126-1-surface2
+    400172: WALL E v126-1-surface20
+    400174: WALL E v126-1-surface21
+    400176: WALL E v126-1-surface22
+    400178: WALL E v126-1-surface23
+    400180: WALL E v126-1-surface24
+    400182: WALL E v126-1-surface25
+    400184: WALL E v126-1-surface26
+    400186: WALL E v126-1-surface27
+    400188: WALL E v126-1-surface28
+    400190: WALL E v126-1-surface29
+    400192: WALL E v126-1-surface3
+    400194: WALL E v126-1-surface30
+    400196: WALL E v126-1-surface31
+    400198: WALL E v126-1-surface32
+    400200: WALL E v126-1-surface33
+    400202: WALL E v126-1-surface34
+    400204: WALL E v126-1-surface35
+    400206: WALL E v126-1-surface36
+    400208: WALL E v126-1-surface37
+    400210: WALL E v126-1-surface38
+    400212: WALL E v126-1-surface39
+    400214: WALL E v126-1-surface4
+    400216: WALL E v126-1-surface40
+    400218: WALL E v126-1-surface41
+    400220: WALL E v126-1-surface42
+    400222: WALL E v126-1-surface43
+    400224: WALL E v126-1-surface44
+    400226: WALL E v126-1-surface45
+    400228: WALL E v126-1-surface46
+    400230: WALL E v126-1-surface47
+    400232: WALL E v126-1-surface48
+    400234: WALL E v126-1-surface49
+    400236: WALL E v126-1-surface5
+    400238: WALL E v126-1-surface50
+    400240: WALL E v126-1-surface51
+    400242: WALL E v126-1-surface52
+    400244: WALL E v126-1-surface53
+    400246: WALL E v126-1-surface54
+    400248: WALL E v126-1-surface55
+    400250: WALL E v126-1-surface56
+    400252: WALL E v126-1-surface57
+    400254: WALL E v126-1-surface58
+    400256: WALL E v126-1-surface59
+    400258: WALL E v126-1-surface6
+    400260: WALL E v126-1-surface60
+    400262: WALL E v126-1-surface61
+    400264: WALL E v126-1-surface62
+    400266: WALL E v126-1-surface63
+    400268: WALL E v126-1-surface64
+    400270: WALL E v126-1-surface65
+    400272: WALL E v126-1-surface66
+    400274: WALL E v126-1-surface67
+    400276: WALL E v126-1-surface68
+    400278: WALL E v126-1-surface69
+    400280: WALL E v126-1-surface7
+    400282: WALL E v126-1-surface70
+    400284: WALL E v126-1-surface71
+    400286: WALL E v126-1-surface72
+    400288: WALL E v126-1-surface73
+    400290: WALL E v126-1-surface74
+    400292: WALL E v126-1-surface75
+    400294: WALL E v126-1-surface76
+    400296: WALL E v126-1-surface77
+    400298: WALL E v126-1-surface78
+    400300: WALL E v126-1-surface79
+    400302: WALL E v126-1-surface8
+    400304: WALL E v126-1-surface80
+    400306: WALL E v126-1-surface81
+    400308: WALL E v126-1-surface82
+    400310: WALL E v126-1-surface83
+    400312: WALL E v126-1-surface84
+    400314: WALL E v126-1-surface85
+    400316: WALL E v126-1-surface86
+    400318: WALL E v126-1-surface87
+    400320: WALL E v126-1-surface88
+    400322: WALL E v126-1-surface89
+    400324: WALL E v126-1-surface9
+    400326: WALL E v126-1-surface90
+    400328: WALL E v126-1-surface91
+    400330: WALL E v126-1-surface92
+    400332: WALL E v126-1-surface93
+    400334: WALL E v126-1-surface94
+    400336: WALL E v126-1-surface95
+    400338: WALL E v126-1-surface96
+    400340: WALL E v126-1-surface97
+    400342: WALL E v126-1-surface98
+    400344: WALL E v126-1-surface99
+    400346: //RootNode
+    400348: WALLEd.SLDPRT 1
+    400350: whell drive sanket(Mirror) (1)-1-surface1
+    400352: whell drive sanket(Mirror) (1)-1-surface2
+    400354: whell drive sanket(Mirror) (1)-1-surface3
+    400356: whell drive sanket(Mirror) (1)-1-surface4
+    400358: whell drive sanket(Mirror) (1)-1-surface5
+    400360: whell drive sanket(Mirror) (1)-1-surface6
+    400362: whell drive sanket(Mirror)(Mirror)-1-surface1
+    400364: whell drive sanket(Mirror)(Mirror)-1-surface2
+    400366: whell drive sanket(Mirror)(Mirror)-1-surface3
+    400368: whell drive sanket(Mirror)(Mirror)-1-surface4
+    400370: whell drive sanket(Mirror)(Mirror)-1-surface5
+    400372: whell drive sanket(Mirror)(Mirror)-1-surface6
+    400374: whell drive sanket(Mirror)-1-surface1
+    400376: whell drive sanket(Mirror)-1-surface2
+    400378: whell drive sanket(Mirror)-1-surface3
+    400380: whell drive sanket(Mirror)-1-surface4
+    400382: whell drive sanket(Mirror)-1-surface5
+    400384: whell drive sanket(Mirror)-1-surface6
+    400386: whell drive sanket(Mirror)-1-surface7
+    400388: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface1
+    400390: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface2
+    400392: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface3
+    400394: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface4
+    400396: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface5
+    400398: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface6
+    400400: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface7
+    2100000: 'Material #100'
+    2100002: 'Material #105'
+    2100004: 'Material #106'
+    2100006: 'Material #107'
+    2100008: 'Material #118'
+    2100010: 'Material #119'
+    2100012: 'Material #120'
+    2100014: 'Material #121'
+    2100016: 'Material #122'
+    2100018: 'Material #129'
+    2300000: back handle sanket-1-surface1
+    2300002: back slider sanket-1-surface1
+    2300004: back slider sanket-1-surface2
+    2300006: back slider sanket-1-surface3
+    2300008: back slider sanket-1-surface4
+    2300010: Component1-1-surface1
+    2300012: Component1-1-surface2
+    2300014: Component1-1-surface3
+    2300016: Component1-1-surface4
+    2300018: Component1-1-surface5
+    2300020: Component1-1-surface6
+    2300022: Component10-1/Component15-1-surface1
+    2300024: Component11-1-surface1
+    2300026: Component11-1-surface2
+    2300028: Component11-1-surface3
+    2300030: Component13-1-surface1
+    2300032: Component14-1-surface1
+    2300034: Component16-1-surface1
+    2300036: Component16-1-surface2
+    2300038: Component16-1-surface3
+    2300040: Component16-1-surface4
+    2300042: Component16-1-surface5
+    2300044: Component17-1-surface1
+    2300046: Component21-1-surface1
+    2300048: Component21-1-surface2
+    2300050: Component21-1-surface3
+    2300052: Component21-1-surface4
+    2300054: Component37-1-surface1
+    2300056: Component47-1-surface1
+    2300058: Component9-1-surface1
+    2300060: eyes(Mirror) (1)(Mirror) (1)-1-surface1
+    2300062: eyes(Mirror) (1)-1/Component45-1-surface1
+    2300064: eyes(Mirror) (1)-1/Component46-1-surface1
+    2300066: eyes(Mirror) (1)-1/eyes(Mirror) (1)-1-surface1
+    2300068: front finger sanket(Mirror) (1)(Mirror)-1-surface1
+    2300070: front finger sanket(Mirror) (1)-1-surface1
+    2300072: front finger sanket(Mirror) (2)-1-surface1
+    2300074: front finger sanket-1-surface1
+    2300076: NECK sanket-1-surface1
+    2300078: SHOULDER JOINT SANKET-1-surface1
+    2300080: SHOULDER JOINT SANKET-1-surface2
+    2300082: SHOULDER JOINT SANKET-1-surface3
+    2300084: shoulder sanket-1-surface1
+    2300086: slider sanket(Mirror)-1-surface1
+    2300088: slider sanket-1/slider sanket-1-surface1
+    2300090: small finger sanket(Mirror)-1-surface1
+    2300092: small finger sanket(Mirror)-1-surface2
+    2300094: small finger sanket-1-surface1
+    2300096: small finger sanket2(Mirror)-1-surface1
+    2300098: small finger sanket2-1-surface1
+    2300100: WALL E v126-1-surface1
+    2300102: WALL E v126-1-surface10
+    2300104: WALL E v126-1-surface100
+    2300106: WALL E v126-1-surface101
+    2300108: WALL E v126-1-surface102
+    2300110: WALL E v126-1-surface103
+    2300112: WALL E v126-1-surface104
+    2300114: WALL E v126-1-surface105
+    2300116: WALL E v126-1-surface106
+    2300118: WALL E v126-1-surface107
+    2300120: WALL E v126-1-surface108
+    2300122: WALL E v126-1-surface109
+    2300124: WALL E v126-1-surface11
+    2300126: WALL E v126-1-surface110
+    2300128: WALL E v126-1-surface111
+    2300130: WALL E v126-1-surface112
+    2300132: WALL E v126-1-surface113
+    2300134: WALL E v126-1-surface114
+    2300136: WALL E v126-1-surface115
+    2300138: WALL E v126-1-surface116
+    2300140: WALL E v126-1-surface117
+    2300142: WALL E v126-1-surface118
+    2300144: WALL E v126-1-surface119
+    2300146: WALL E v126-1-surface12
+    2300148: WALL E v126-1-surface120
+    2300150: WALL E v126-1-surface121
+    2300152: WALL E v126-1-surface122
+    2300154: WALL E v126-1-surface123
+    2300156: WALL E v126-1-surface13
+    2300158: WALL E v126-1-surface14
+    2300160: WALL E v126-1-surface15
+    2300162: WALL E v126-1-surface16
+    2300164: WALL E v126-1-surface17
+    2300166: WALL E v126-1-surface18
+    2300168: WALL E v126-1-surface19
+    2300170: WALL E v126-1-surface2
+    2300172: WALL E v126-1-surface20
+    2300174: WALL E v126-1-surface21
+    2300176: WALL E v126-1-surface22
+    2300178: WALL E v126-1-surface23
+    2300180: WALL E v126-1-surface24
+    2300182: WALL E v126-1-surface25
+    2300184: WALL E v126-1-surface26
+    2300186: WALL E v126-1-surface27
+    2300188: WALL E v126-1-surface28
+    2300190: WALL E v126-1-surface29
+    2300192: WALL E v126-1-surface3
+    2300194: WALL E v126-1-surface30
+    2300196: WALL E v126-1-surface31
+    2300198: WALL E v126-1-surface32
+    2300200: WALL E v126-1-surface33
+    2300202: WALL E v126-1-surface34
+    2300204: WALL E v126-1-surface35
+    2300206: WALL E v126-1-surface36
+    2300208: WALL E v126-1-surface37
+    2300210: WALL E v126-1-surface38
+    2300212: WALL E v126-1-surface39
+    2300214: WALL E v126-1-surface4
+    2300216: WALL E v126-1-surface40
+    2300218: WALL E v126-1-surface41
+    2300220: WALL E v126-1-surface42
+    2300222: WALL E v126-1-surface43
+    2300224: WALL E v126-1-surface44
+    2300226: WALL E v126-1-surface45
+    2300228: WALL E v126-1-surface46
+    2300230: WALL E v126-1-surface47
+    2300232: WALL E v126-1-surface48
+    2300234: WALL E v126-1-surface49
+    2300236: WALL E v126-1-surface5
+    2300238: WALL E v126-1-surface50
+    2300240: WALL E v126-1-surface51
+    2300242: WALL E v126-1-surface52
+    2300244: WALL E v126-1-surface53
+    2300246: WALL E v126-1-surface54
+    2300248: WALL E v126-1-surface55
+    2300250: WALL E v126-1-surface56
+    2300252: WALL E v126-1-surface57
+    2300254: WALL E v126-1-surface58
+    2300256: WALL E v126-1-surface59
+    2300258: WALL E v126-1-surface6
+    2300260: WALL E v126-1-surface60
+    2300262: WALL E v126-1-surface61
+    2300264: WALL E v126-1-surface62
+    2300266: WALL E v126-1-surface63
+    2300268: WALL E v126-1-surface64
+    2300270: WALL E v126-1-surface65
+    2300272: WALL E v126-1-surface66
+    2300274: WALL E v126-1-surface67
+    2300276: WALL E v126-1-surface68
+    2300278: WALL E v126-1-surface69
+    2300280: WALL E v126-1-surface7
+    2300282: WALL E v126-1-surface70
+    2300284: WALL E v126-1-surface71
+    2300286: WALL E v126-1-surface72
+    2300288: WALL E v126-1-surface73
+    2300290: WALL E v126-1-surface74
+    2300292: WALL E v126-1-surface75
+    2300294: WALL E v126-1-surface76
+    2300296: WALL E v126-1-surface77
+    2300298: WALL E v126-1-surface78
+    2300300: WALL E v126-1-surface79
+    2300302: WALL E v126-1-surface8
+    2300304: WALL E v126-1-surface80
+    2300306: WALL E v126-1-surface81
+    2300308: WALL E v126-1-surface82
+    2300310: WALL E v126-1-surface83
+    2300312: WALL E v126-1-surface84
+    2300314: WALL E v126-1-surface85
+    2300316: WALL E v126-1-surface86
+    2300318: WALL E v126-1-surface87
+    2300320: WALL E v126-1-surface88
+    2300322: WALL E v126-1-surface89
+    2300324: WALL E v126-1-surface9
+    2300326: WALL E v126-1-surface90
+    2300328: WALL E v126-1-surface91
+    2300330: WALL E v126-1-surface92
+    2300332: WALL E v126-1-surface93
+    2300334: WALL E v126-1-surface94
+    2300336: WALL E v126-1-surface95
+    2300338: WALL E v126-1-surface96
+    2300340: WALL E v126-1-surface97
+    2300342: WALL E v126-1-surface98
+    2300344: WALL E v126-1-surface99
+    2300346: whell drive sanket(Mirror) (1)-1-surface1
+    2300348: whell drive sanket(Mirror) (1)-1-surface2
+    2300350: whell drive sanket(Mirror) (1)-1-surface3
+    2300352: whell drive sanket(Mirror) (1)-1-surface4
+    2300354: whell drive sanket(Mirror) (1)-1-surface5
+    2300356: whell drive sanket(Mirror) (1)-1-surface6
+    2300358: whell drive sanket(Mirror)(Mirror)-1-surface1
+    2300360: whell drive sanket(Mirror)(Mirror)-1-surface2
+    2300362: whell drive sanket(Mirror)(Mirror)-1-surface3
+    2300364: whell drive sanket(Mirror)(Mirror)-1-surface4
+    2300366: whell drive sanket(Mirror)(Mirror)-1-surface5
+    2300368: whell drive sanket(Mirror)(Mirror)-1-surface6
+    2300370: whell drive sanket(Mirror)-1-surface1
+    2300372: whell drive sanket(Mirror)-1-surface2
+    2300374: whell drive sanket(Mirror)-1-surface3
+    2300376: whell drive sanket(Mirror)-1-surface4
+    2300378: whell drive sanket(Mirror)-1-surface5
+    2300380: whell drive sanket(Mirror)-1-surface6
+    2300382: whell drive sanket(Mirror)-1-surface7
+    2300384: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface1
+    2300386: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface2
+    2300388: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface3
+    2300390: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface4
+    2300392: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface5
+    2300394: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface6
+    2300396: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface7
+    3300000: back handle sanket-1-surface1
+    3300002: back slider sanket-1-surface1
+    3300004: back slider sanket-1-surface2
+    3300006: back slider sanket-1-surface3
+    3300008: back slider sanket-1-surface4
+    3300010: Component1-1-surface1
+    3300012: Component1-1-surface2
+    3300014: Component1-1-surface3
+    3300016: Component1-1-surface4
+    3300018: Component1-1-surface5
+    3300020: Component1-1-surface6
+    3300022: Component10-1/Component15-1-surface1
+    3300024: Component11-1-surface1
+    3300026: Component11-1-surface2
+    3300028: Component11-1-surface3
+    3300030: Component13-1-surface1
+    3300032: Component14-1-surface1
+    3300034: Component16-1-surface1
+    3300036: Component16-1-surface2
+    3300038: Component16-1-surface3
+    3300040: Component16-1-surface4
+    3300042: Component16-1-surface5
+    3300044: Component17-1-surface1
+    3300046: Component21-1-surface1
+    3300048: Component21-1-surface2
+    3300050: Component21-1-surface3
+    3300052: Component21-1-surface4
+    3300054: Component37-1-surface1
+    3300056: Component47-1-surface1
+    3300058: Component9-1-surface1
+    3300060: eyes(Mirror) (1)(Mirror) (1)-1-surface1
+    3300062: eyes(Mirror) (1)-1/Component45-1-surface1
+    3300064: eyes(Mirror) (1)-1/Component46-1-surface1
+    3300066: eyes(Mirror) (1)-1/eyes(Mirror) (1)-1-surface1
+    3300068: front finger sanket(Mirror) (1)(Mirror)-1-surface1
+    3300070: front finger sanket(Mirror) (1)-1-surface1
+    3300072: front finger sanket(Mirror) (2)-1-surface1
+    3300074: front finger sanket-1-surface1
+    3300076: NECK sanket-1-surface1
+    3300078: SHOULDER JOINT SANKET-1-surface1
+    3300080: SHOULDER JOINT SANKET-1-surface2
+    3300082: SHOULDER JOINT SANKET-1-surface3
+    3300084: shoulder sanket-1-surface1
+    3300086: slider sanket(Mirror)-1-surface1
+    3300088: slider sanket-1/slider sanket-1-surface1
+    3300090: small finger sanket(Mirror)-1-surface1
+    3300092: small finger sanket(Mirror)-1-surface2
+    3300094: small finger sanket-1-surface1
+    3300096: small finger sanket2(Mirror)-1-surface1
+    3300098: small finger sanket2-1-surface1
+    3300100: WALL E v126-1-surface1
+    3300102: WALL E v126-1-surface10
+    3300104: WALL E v126-1-surface100
+    3300106: WALL E v126-1-surface101
+    3300108: WALL E v126-1-surface102
+    3300110: WALL E v126-1-surface103
+    3300112: WALL E v126-1-surface104
+    3300114: WALL E v126-1-surface105
+    3300116: WALL E v126-1-surface106
+    3300118: WALL E v126-1-surface107
+    3300120: WALL E v126-1-surface108
+    3300122: WALL E v126-1-surface109
+    3300124: WALL E v126-1-surface11
+    3300126: WALL E v126-1-surface110
+    3300128: WALL E v126-1-surface111
+    3300130: WALL E v126-1-surface112
+    3300132: WALL E v126-1-surface113
+    3300134: WALL E v126-1-surface114
+    3300136: WALL E v126-1-surface115
+    3300138: WALL E v126-1-surface116
+    3300140: WALL E v126-1-surface117
+    3300142: WALL E v126-1-surface118
+    3300144: WALL E v126-1-surface119
+    3300146: WALL E v126-1-surface12
+    3300148: WALL E v126-1-surface120
+    3300150: WALL E v126-1-surface121
+    3300152: WALL E v126-1-surface122
+    3300154: WALL E v126-1-surface123
+    3300156: WALL E v126-1-surface13
+    3300158: WALL E v126-1-surface14
+    3300160: WALL E v126-1-surface15
+    3300162: WALL E v126-1-surface16
+    3300164: WALL E v126-1-surface17
+    3300166: WALL E v126-1-surface18
+    3300168: WALL E v126-1-surface19
+    3300170: WALL E v126-1-surface2
+    3300172: WALL E v126-1-surface20
+    3300174: WALL E v126-1-surface21
+    3300176: WALL E v126-1-surface22
+    3300178: WALL E v126-1-surface23
+    3300180: WALL E v126-1-surface24
+    3300182: WALL E v126-1-surface25
+    3300184: WALL E v126-1-surface26
+    3300186: WALL E v126-1-surface27
+    3300188: WALL E v126-1-surface28
+    3300190: WALL E v126-1-surface29
+    3300192: WALL E v126-1-surface3
+    3300194: WALL E v126-1-surface30
+    3300196: WALL E v126-1-surface31
+    3300198: WALL E v126-1-surface32
+    3300200: WALL E v126-1-surface33
+    3300202: WALL E v126-1-surface34
+    3300204: WALL E v126-1-surface35
+    3300206: WALL E v126-1-surface36
+    3300208: WALL E v126-1-surface37
+    3300210: WALL E v126-1-surface38
+    3300212: WALL E v126-1-surface39
+    3300214: WALL E v126-1-surface4
+    3300216: WALL E v126-1-surface40
+    3300218: WALL E v126-1-surface41
+    3300220: WALL E v126-1-surface42
+    3300222: WALL E v126-1-surface43
+    3300224: WALL E v126-1-surface44
+    3300226: WALL E v126-1-surface45
+    3300228: WALL E v126-1-surface46
+    3300230: WALL E v126-1-surface47
+    3300232: WALL E v126-1-surface48
+    3300234: WALL E v126-1-surface49
+    3300236: WALL E v126-1-surface5
+    3300238: WALL E v126-1-surface50
+    3300240: WALL E v126-1-surface51
+    3300242: WALL E v126-1-surface52
+    3300244: WALL E v126-1-surface53
+    3300246: WALL E v126-1-surface54
+    3300248: WALL E v126-1-surface55
+    3300250: WALL E v126-1-surface56
+    3300252: WALL E v126-1-surface57
+    3300254: WALL E v126-1-surface58
+    3300256: WALL E v126-1-surface59
+    3300258: WALL E v126-1-surface6
+    3300260: WALL E v126-1-surface60
+    3300262: WALL E v126-1-surface61
+    3300264: WALL E v126-1-surface62
+    3300266: WALL E v126-1-surface63
+    3300268: WALL E v126-1-surface64
+    3300270: WALL E v126-1-surface65
+    3300272: WALL E v126-1-surface66
+    3300274: WALL E v126-1-surface67
+    3300276: WALL E v126-1-surface68
+    3300278: WALL E v126-1-surface69
+    3300280: WALL E v126-1-surface7
+    3300282: WALL E v126-1-surface70
+    3300284: WALL E v126-1-surface71
+    3300286: WALL E v126-1-surface72
+    3300288: WALL E v126-1-surface73
+    3300290: WALL E v126-1-surface74
+    3300292: WALL E v126-1-surface75
+    3300294: WALL E v126-1-surface76
+    3300296: WALL E v126-1-surface77
+    3300298: WALL E v126-1-surface78
+    3300300: WALL E v126-1-surface79
+    3300302: WALL E v126-1-surface8
+    3300304: WALL E v126-1-surface80
+    3300306: WALL E v126-1-surface81
+    3300308: WALL E v126-1-surface82
+    3300310: WALL E v126-1-surface83
+    3300312: WALL E v126-1-surface84
+    3300314: WALL E v126-1-surface85
+    3300316: WALL E v126-1-surface86
+    3300318: WALL E v126-1-surface87
+    3300320: WALL E v126-1-surface88
+    3300322: WALL E v126-1-surface89
+    3300324: WALL E v126-1-surface9
+    3300326: WALL E v126-1-surface90
+    3300328: WALL E v126-1-surface91
+    3300330: WALL E v126-1-surface92
+    3300332: WALL E v126-1-surface93
+    3300334: WALL E v126-1-surface94
+    3300336: WALL E v126-1-surface95
+    3300338: WALL E v126-1-surface96
+    3300340: WALL E v126-1-surface97
+    3300342: WALL E v126-1-surface98
+    3300344: WALL E v126-1-surface99
+    3300346: whell drive sanket(Mirror) (1)-1-surface1
+    3300348: whell drive sanket(Mirror) (1)-1-surface2
+    3300350: whell drive sanket(Mirror) (1)-1-surface3
+    3300352: whell drive sanket(Mirror) (1)-1-surface4
+    3300354: whell drive sanket(Mirror) (1)-1-surface5
+    3300356: whell drive sanket(Mirror) (1)-1-surface6
+    3300358: whell drive sanket(Mirror)(Mirror)-1-surface1
+    3300360: whell drive sanket(Mirror)(Mirror)-1-surface2
+    3300362: whell drive sanket(Mirror)(Mirror)-1-surface3
+    3300364: whell drive sanket(Mirror)(Mirror)-1-surface4
+    3300366: whell drive sanket(Mirror)(Mirror)-1-surface5
+    3300368: whell drive sanket(Mirror)(Mirror)-1-surface6
+    3300370: whell drive sanket(Mirror)-1-surface1
+    3300372: whell drive sanket(Mirror)-1-surface2
+    3300374: whell drive sanket(Mirror)-1-surface3
+    3300376: whell drive sanket(Mirror)-1-surface4
+    3300378: whell drive sanket(Mirror)-1-surface5
+    3300380: whell drive sanket(Mirror)-1-surface6
+    3300382: whell drive sanket(Mirror)-1-surface7
+    3300384: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface1
+    3300386: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface2
+    3300388: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface3
+    3300390: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface4
+    3300392: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface5
+    3300394: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface6
+    3300396: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface7
+    4300000: WALL E v126-1-surface1
+    4300002: WALL E v126-1-surface2
+    4300004: WALL E v126-1-surface3
+    4300006: WALL E v126-1-surface4
+    4300008: WALL E v126-1-surface5
+    4300010: WALL E v126-1-surface6
+    4300012: WALL E v126-1-surface7
+    4300014: WALL E v126-1-surface8
+    4300016: WALL E v126-1-surface9
+    4300018: WALL E v126-1-surface10
+    4300020: WALL E v126-1-surface11
+    4300022: WALL E v126-1-surface12
+    4300024: WALL E v126-1-surface13
+    4300026: WALL E v126-1-surface14
+    4300028: WALL E v126-1-surface15
+    4300030: WALL E v126-1-surface16
+    4300032: WALL E v126-1-surface17
+    4300034: WALL E v126-1-surface18
+    4300036: WALL E v126-1-surface19
+    4300038: WALL E v126-1-surface20
+    4300040: WALL E v126-1-surface21
+    4300042: WALL E v126-1-surface22
+    4300044: WALL E v126-1-surface23
+    4300046: WALL E v126-1-surface24
+    4300048: WALL E v126-1-surface25
+    4300050: WALL E v126-1-surface26
+    4300052: WALL E v126-1-surface27
+    4300054: WALL E v126-1-surface28
+    4300056: WALL E v126-1-surface29
+    4300058: WALL E v126-1-surface30
+    4300060: WALL E v126-1-surface31
+    4300062: WALL E v126-1-surface32
+    4300064: WALL E v126-1-surface33
+    4300066: WALL E v126-1-surface34
+    4300068: WALL E v126-1-surface35
+    4300070: WALL E v126-1-surface36
+    4300072: WALL E v126-1-surface37
+    4300074: WALL E v126-1-surface38
+    4300076: WALL E v126-1-surface39
+    4300078: WALL E v126-1-surface40
+    4300080: WALL E v126-1-surface41
+    4300082: WALL E v126-1-surface42
+    4300084: WALL E v126-1-surface43
+    4300086: WALL E v126-1-surface44
+    4300088: WALL E v126-1-surface45
+    4300090: WALL E v126-1-surface46
+    4300092: WALL E v126-1-surface47
+    4300094: WALL E v126-1-surface48
+    4300096: WALL E v126-1-surface49
+    4300098: WALL E v126-1-surface50
+    4300100: WALL E v126-1-surface51
+    4300102: WALL E v126-1-surface52
+    4300104: WALL E v126-1-surface53
+    4300106: WALL E v126-1-surface54
+    4300108: WALL E v126-1-surface55
+    4300110: WALL E v126-1-surface56
+    4300112: WALL E v126-1-surface57
+    4300114: WALL E v126-1-surface58
+    4300116: WALL E v126-1-surface59
+    4300118: WALL E v126-1-surface60
+    4300120: WALL E v126-1-surface61
+    4300122: WALL E v126-1-surface62
+    4300124: WALL E v126-1-surface63
+    4300126: WALL E v126-1-surface64
+    4300128: WALL E v126-1-surface65
+    4300130: WALL E v126-1-surface66
+    4300132: WALL E v126-1-surface67
+    4300134: WALL E v126-1-surface68
+    4300136: WALL E v126-1-surface69
+    4300138: WALL E v126-1-surface70
+    4300140: WALL E v126-1-surface71
+    4300142: WALL E v126-1-surface72
+    4300144: WALL E v126-1-surface73
+    4300146: WALL E v126-1-surface74
+    4300148: WALL E v126-1-surface75
+    4300150: WALL E v126-1-surface76
+    4300152: WALL E v126-1-surface77
+    4300154: WALL E v126-1-surface78
+    4300156: WALL E v126-1-surface79
+    4300158: WALL E v126-1-surface80
+    4300160: WALL E v126-1-surface81
+    4300162: WALL E v126-1-surface82
+    4300164: WALL E v126-1-surface83
+    4300166: WALL E v126-1-surface84
+    4300168: WALL E v126-1-surface85
+    4300170: WALL E v126-1-surface86
+    4300172: WALL E v126-1-surface87
+    4300174: WALL E v126-1-surface88
+    4300176: WALL E v126-1-surface89
+    4300178: WALL E v126-1-surface90
+    4300180: WALL E v126-1-surface91
+    4300182: WALL E v126-1-surface92
+    4300184: WALL E v126-1-surface93
+    4300186: WALL E v126-1-surface94
+    4300188: WALL E v126-1-surface95
+    4300190: WALL E v126-1-surface96
+    4300192: WALL E v126-1-surface97
+    4300194: WALL E v126-1-surface98
+    4300196: WALL E v126-1-surface99
+    4300198: WALL E v126-1-surface100
+    4300200: WALL E v126-1-surface101
+    4300202: WALL E v126-1-surface102
+    4300204: WALL E v126-1-surface103
+    4300206: WALL E v126-1-surface104
+    4300208: WALL E v126-1-surface105
+    4300210: WALL E v126-1-surface106
+    4300212: WALL E v126-1-surface107
+    4300214: WALL E v126-1-surface108
+    4300216: WALL E v126-1-surface109
+    4300218: WALL E v126-1-surface110
+    4300220: WALL E v126-1-surface111
+    4300222: WALL E v126-1-surface112
+    4300224: WALL E v126-1-surface113
+    4300226: WALL E v126-1-surface114
+    4300228: WALL E v126-1-surface115
+    4300230: WALL E v126-1-surface116
+    4300232: WALL E v126-1-surface117
+    4300234: WALL E v126-1-surface118
+    4300236: WALL E v126-1-surface119
+    4300238: WALL E v126-1-surface120
+    4300240: WALL E v126-1-surface121
+    4300242: WALL E v126-1-surface122
+    4300244: WALL E v126-1-surface123
+    4300246: Component1-1-surface1
+    4300248: Component1-1-surface2
+    4300250: Component1-1-surface3
+    4300252: Component1-1-surface4
+    4300254: Component1-1-surface5
+    4300256: Component1-1-surface6
+    4300258: back handle sanket-1-surface1
+    4300260: back slider sanket-1-surface1
+    4300262: back slider sanket-1-surface2
+    4300264: back slider sanket-1-surface3
+    4300266: back slider sanket-1-surface4
+    4300268: slider sanket-1/slider sanket-1-surface1
+    4300270: slider sanket(Mirror)-1-surface1
+    4300272: Component9-1-surface1
+    4300274: Component10-1/Component15-1-surface1
+    4300276: Component11-1-surface1
+    4300278: Component11-1-surface2
+    4300280: Component11-1-surface3
+    4300282: shoulder sanket-1-surface1
+    4300284: Component13-1-surface1
+    4300286: Component16-1-surface1
+    4300288: Component16-1-surface2
+    4300290: Component16-1-surface3
+    4300292: Component16-1-surface4
+    4300294: Component16-1-surface5
+    4300296: Component14-1-surface1
+    4300298: Component17-1-surface1
+    4300300: SHOULDER JOINT SANKET-1-surface1
+    4300302: SHOULDER JOINT SANKET-1-surface2
+    4300304: SHOULDER JOINT SANKET-1-surface3
+    4300306: Component21-1-surface1
+    4300308: Component21-1-surface2
+    4300310: Component21-1-surface3
+    4300312: Component21-1-surface4
+    4300314: front finger sanket-1-surface1
+    4300316: front finger sanket(Mirror) (1)-1-surface1
+    4300318: front finger sanket(Mirror) (2)-1-surface1
+    4300320: front finger sanket(Mirror) (1)(Mirror)-1-surface1
+    4300322: small finger sanket-1-surface1
+    4300324: small finger sanket2-1-surface1
+    4300326: small finger sanket2(Mirror)-1-surface1
+    4300328: small finger sanket(Mirror)-1-surface1
+    4300330: small finger sanket(Mirror)-1-surface2
+    4300332: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface1
+    4300334: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface2
+    4300336: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface3
+    4300338: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface4
+    4300340: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface5
+    4300342: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface6
+    4300344: whell drive sanket-1/whell drive sanket (1)-1/whell drive sanket (2)-1-surface7
+    4300346: whell drive sanket(Mirror)-1-surface1
+    4300348: whell drive sanket(Mirror)-1-surface2
+    4300350: whell drive sanket(Mirror)-1-surface3
+    4300352: whell drive sanket(Mirror)-1-surface4
+    4300354: whell drive sanket(Mirror)-1-surface5
+    4300356: whell drive sanket(Mirror)-1-surface6
+    4300358: whell drive sanket(Mirror)-1-surface7
+    4300360: whell drive sanket(Mirror) (1)-1-surface1
+    4300362: whell drive sanket(Mirror) (1)-1-surface2
+    4300364: whell drive sanket(Mirror) (1)-1-surface3
+    4300366: whell drive sanket(Mirror) (1)-1-surface4
+    4300368: whell drive sanket(Mirror) (1)-1-surface5
+    4300370: whell drive sanket(Mirror) (1)-1-surface6
+    4300372: whell drive sanket(Mirror)(Mirror)-1-surface1
+    4300374: whell drive sanket(Mirror)(Mirror)-1-surface2
+    4300376: whell drive sanket(Mirror)(Mirror)-1-surface3
+    4300378: whell drive sanket(Mirror)(Mirror)-1-surface4
+    4300380: whell drive sanket(Mirror)(Mirror)-1-surface5
+    4300382: whell drive sanket(Mirror)(Mirror)-1-surface6
+    4300384: Component37-1-surface1
+    4300386: NECK sanket-1-surface1
+    4300388: eyes(Mirror) (1)-1/eyes(Mirror) (1)-1-surface1
+    4300390: eyes(Mirror) (1)-1/Component45-1-surface1
+    4300392: eyes(Mirror) (1)-1/Component46-1-surface1
+    4300394: eyes(Mirror) (1)(Mirror) (1)-1-surface1
+    4300396: Component47-1-surface1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
